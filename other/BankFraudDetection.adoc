@@ -1,10 +1,9 @@
 = Bank Fraud Detection
 :neo4j-version: 2.0.0-RC1
-:author: Kenny Bastani
-:twitter: @kennybastani
+:author: Kaylyn
 :tags: domain:finance, use-case:fraud-detection
 
-This interactive Neo4j graph tutorial covers bank fraud detection scenarios.
+Just testing: This interactive Neo4j graph tutorial covers bank fraud detection scenarios.
 
 '''
 
